@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'BasisGrotesquePro-Bold';
+  src:
+    url('./BasisGrotesquePro-Bold/BasisGrotesquePro-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'BasisGrotesquePro-Regular';
+  src:
+    url('./BasisGrotesquePro-Bold/BasisGrotesquePro-Regular.ttf');
+}
